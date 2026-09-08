@@ -6,7 +6,7 @@ The literature dataset for a systematic review of Segment Anything Model (SAM) a
 
 This repository provides the literature metadata used in the review:
 
-> **SAM-driven applications in agricultural remote sensing: a review**
+> **SAM in Agricultural Remote Sensing: Applications, Challenges, and Prospects**
 
 The dataset summarizes studies applying SAM and its variants to agricultural remote sensing monitoring tasks.The current dataset contains **199 literature records**, with publication dates ranging from **March 2023 to June 2026**.
 
