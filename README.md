@@ -1,14 +1,14 @@
-# SAM4AgriRS-Monitoring
+# SAM4Agri
 
-The literature dataset for a systematic review of Segment Anything Model (SAM) applications in agricultural remote sensing monitoring.
+The literature dataset for a systematic review of Segment Anything Model (SAM) applications in agriculture.
 
 ## Overview
 
 This repository provides the literature metadata used in the review:
 
-> **SAM in Agricultural Remote Sensing: Applications, Challenges, and Prospects**
+> **Segment Anything Model in Agriculture: Applications, Challenges, and Prospects**
 
-The dataset summarizes studies applying SAM and its variants to agricultural remote sensing monitoring tasks.The current dataset contains **199 literature records**, with publication dates ranging from **March 2023 to June 2026**.
+The dataset summarizes studies applying SAM and its variants to agricultural monitoring tasks.The current dataset contains **199 literature records**, with publication dates ranging from **March 2023 to June 2026**.
 
 
 ## Dataset
@@ -16,7 +16,7 @@ The dataset summarizes studies applying SAM and its variants to agricultural rem
 The main dataset is available at:
 
 ```text
-SAM for Agricultural Remote Sensing Monitoring Literature Dataset.xlsx
+SAM for Agricultural Monitoring Literature Dataset.xlsx
 ```
 
 The Excel workbook contains seven worksheets:
@@ -55,9 +55,9 @@ Each worksheet contains the following bibliographic fields:
 ## Repository Structure
 
 ```text
-SAM4AgriRS-Monitoring/
+SAM4Agri/
 ├── README.md
-└── SAM for Agricultural Remote Sensing Monitoring Literature Dataset.xlsx
+└── SAM for Agricultural Monitoring Literature Dataset.xlsx
 ```
 
 ## Recommended Use
@@ -71,7 +71,7 @@ The dataset can be used to:
 
 ## Data Updates and Living Review
 
-To maintain the timeliness and long-term value of this resource, the dataset will be updated as new studies on SAM and its variants in agricultural remote sensing monitoring are published. Through these regular updates, the review is intended to function as a **living review**, continuously reflecting the latest research progress, technical developments, and application trends in the field.
+To maintain the timeliness and long-term value of this resource, the dataset will be updated as new studies on SAM and its variants in agricultural monitoring are published. Through these regular updates, the review is intended to function as a **living review**, continuously reflecting the latest research progress, technical developments, and application trends in the field.
 
 Each update will include:
 
